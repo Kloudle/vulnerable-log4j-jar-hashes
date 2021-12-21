@@ -13,5 +13,6 @@ The repository contains a CSV file with names of log4j JAR files along with thei
 3. If the hash exists, the log4j JAR is a vulnerable version
 
 ## References
-- [Apache Log4j Security Vulnerabilities](https://logging.apache.org/log4j/2.x/security.html)
-- [Log4j (CVE-2021-44228) RCE: How to Protect?](https://kloudle.com/blog/log4j-cve-2021-44228-rce-how-to-protect)
+
+* [Apache Log4j Security Vulnerabilities](https://logging.apache.org/log4j/2.x/security.html)
+* [Log4j (CVE-2021-44228) RCE: How to Protect?](https://kloudle.com/blog/log4j-cve-2021-44228-rce-how-to-protect)
